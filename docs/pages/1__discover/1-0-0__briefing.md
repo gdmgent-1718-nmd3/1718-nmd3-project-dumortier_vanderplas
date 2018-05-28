@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Yentl Van der Plas
+ - Fien Dumortier
 
-Gekozen Museum
+SMAK
 --------------
