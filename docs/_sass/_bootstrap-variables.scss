@@ -10,13 +10,14 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$primary:    white !default;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
 
-$font-family-base: Merriweather, serif;
+
+$font-H:    'Oswald', sans-serif;
+$font-body: 'Open Sans', sans-serif;

@@ -83,19 +83,6 @@
     -
       title: UI Style Guide
       permalink: design/ui-style-guide/
-      children:
-        -
-          title: Typografie
-          permalink: design/ui-style-guide/typografie/
-        -
-          title: Kleuren
-          permalink: design/ui-style-guide/kleuren/
-        -
-          title: Knoppen
-          permalink: design/ui-style-guide/knoppen/
-        -
-          title: Formulieren
-          permalink: design/ui-style-guide/formulieren/
 # -
 #   title: Develop
 #   # permalink: develop/

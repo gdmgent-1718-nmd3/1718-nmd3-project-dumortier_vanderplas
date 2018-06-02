@@ -4,5 +4,5 @@ permalink: design/ui-style-guide/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: UI Style Guide
+title: UI STYLE GUIDE
 ---

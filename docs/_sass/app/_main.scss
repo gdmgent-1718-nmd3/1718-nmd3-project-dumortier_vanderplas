@@ -6,3 +6,41 @@
   "layout",
   "navigation",
   "scrollbar";
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
+
+$title-color: #CE413F;
+$text-color: black;
+
+
+body {
+  color: $text-color;
+  font:  $font-body;
+}
+
+h1 {
+  color: $title-color;
+  font:  $font-H;
+  margin-top: 20pt;
+}
+
+h2 {
+  font-size: 20pt;
+  margin-top: 20pt;
+}
+
+.nav-link.disabled  {
+  color: #CE413F;
+}
+.nav-link.active  {
+  background-color: #CE413F;
+}
+.gdm-nav 
+{
+  background-color: #1F2426;
+}
+.gdm-nav-level-home 
+{
+  background-color: #CE413F;
+}
+
+

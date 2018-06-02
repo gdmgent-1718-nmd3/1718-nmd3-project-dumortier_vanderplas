@@ -4,11 +4,15 @@ permalink: home
 
 # Custom Page Variables
 # ─────────────────────
-title: Opdracht NMD-III
+title: OPDRACHT NMD-III
 ---
+
+<div>
+    <img src="{{ site.baseurl }}/assets/img/SMAK.png" class="img-fluid" alt="Responsive image">
+</div>
 
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Yentl Van der Plas, 2CMO-PD
+ - Fien Dumortier, 2CMO-PD
