@@ -9,16 +9,16 @@
   time: 20
   task: Werkcolleges.
 -
-  time: 1
+  time: 1.5
   task: Ondervraging museumbezoekers.
 -
-  time: 2
+  time: 3
   task: Museumbezoek.
 -
-  time: 10
+  time: 12.5
   task: Bespreking concept, problemen en oplossingen + maken technische analyse & journey maps.
 -
-  time: 1.5
+  time: 3.5
   task: Bespreking problemen en oplossingen concept.
 -
   time: 5
@@ -27,13 +27,13 @@
   time: 4
   task: Gebruikerstesten smartwatch & smartphone.
 -
-  time: 5
+  time: 6
   task: Visual Design Smartwatch app.
 -
-  time: 17
+  time: 18
   task: Wireframes + Visual Design Smartphone app.
 -
-  time: 10
+  time: 12
   task: Website
 -
   time: 7
