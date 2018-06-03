@@ -18,7 +18,10 @@ title: SCREEN DESIGNS
 
 ###### Navigatie:
 <div>
-    <img src="{{ site.baseurl }}/assets/img/SP3.png" class="SDSW" alt="Responsive image">
+    <img src="{{ site.baseurl }}/assets/img/SP3_1.png" class="SDSW" alt="Responsive image">
+</div>
+<div>
+    <img src="{{ site.baseurl }}/assets/img/SP3_2.png" class="SDSW" alt="Responsive image">
 </div>
 
 ###### Favorieten:

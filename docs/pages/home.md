@@ -8,7 +8,7 @@ title: OPDRACHT NMD-III
 ---
 
 <div>
-    <img src="{{ site.baseurl }}/assets/img/SMAK.png" class="img-fluid" alt="Responsive image">
+    <img src="{{ site.baseurl }}/assets/img/SMAK.png" class="JM" alt="Responsive image">
 </div>
 
 Wie zijn we?
