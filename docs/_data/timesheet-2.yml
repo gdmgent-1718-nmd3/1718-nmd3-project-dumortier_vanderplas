@@ -6,23 +6,41 @@
   time: 1
   task: Ondervraging museumbezoekers.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Museumbezoek.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Bespreking concept, maken technische analyse & journey maps.
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.5
+  task: Schrijven elevator pitch + maken ppt.
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Bespreking problemen en oplossingen concept.
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 5.5
+  task: Ideaboard + Style tiles.
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Paper prototype.
+-
+  time: 5
+  task: Gebruikerstesten smartwatch & smartphone.
+-
+  time: 3
+  task: Visual Design Smartwatch app.
+-
+  time: 10
+  task: Wireframes + Visual Design Smartphone app.
+-
+  time: 10
+  task: Website
+-
+  time: 8
+  task: Nakijken details
+-
+  time: 7
+  task: UI Style Guide
+-
+  time: 4
+  task: Plaatsen in mock-ups voor productiedossier
