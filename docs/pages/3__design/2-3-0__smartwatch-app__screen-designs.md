@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: SCREEN DESIGNS
 ---
+Prototype XD: https://xd.adobe.com/view/1c3cf272-6ad3-4d51-74fb-a9ec7bf6e26f-6a0d/
+
 ###### Beacon-melding:
 <div>
     <img src="{{ site.baseurl }}/assets/img/SW1.png" class="SDSW" alt="Responsive image">

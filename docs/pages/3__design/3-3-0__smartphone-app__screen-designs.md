@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: SCREEN DESIGNS
 ---
+Prototype XD: https://xd.adobe.com/view/770d61d0-a37c-465f-79e7-e838a357be22-013c/
+
 ###### Extra Informatie:
 <div>
     <img src="{{ site.baseurl }}/assets/img/SP1.png" class="SDSW" alt="Responsive image">
